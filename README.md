@@ -37,7 +37,7 @@ I’m passionate about system design, architecture, chatbots, LLM applications, 
 
 ## Selected Projects
 
-- **Vesta Hospitality Platform** – End-to-end hotel and travel management system (PMS, CRS, CHM, OTA integration)  
+- **Hospitality Platform** – End-to-end hotel and travel management system (PMS, CRS, CHM, OTA integration)  
 - **NFT Marketplaces** – Smart contract integrations, asset listing, and trading platform  
 - **Chatbot Frameworks** – Multilingual, AI-driven customer support bots for various industries  
 - **Enterprise Portals** – Complex B2B/B2C platforms with workflow automation and reporting tools  
