@@ -76,8 +76,8 @@ I value **clean architecture**, **developer experience**, **automation**, and **
 
 ## Learn More About Me
 
-- [Technical CV](https://ildrm.com/shahin-ilderemi-developer-techlead-cv/)  
-- [AI & Chatbot Profile](https://ildrm.com/shahin-ilderemi-chatbot-developer-evolution-ai/)  
+- [CV](https://ildrm.com/shahin-ilderemi-developer-techlead-cv/)  
+- [FAQ](https://ildrm.com/shahin-ilderemi-chatbot-developer-evolution-ai/)  
 - [GitHub Repositories](https://github.com/ildrm?tab=repositories)
 
 ---
